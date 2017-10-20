@@ -19,7 +19,7 @@ public class RequestController {
 			}else{
 				cutoff=i;
 				System.out.println("Can only process the requests before "+req[0]+".");
-				System.out.println("Seats are sold out for "+req[0]+"and afterwards.");
+				System.out.println("Seats are sold out for "+req[0]+" and afterwards.");
 				break;
 			}			
 		}
