@@ -3,7 +3,7 @@ A system that assigns seats to requests.
 ## 1. Assumption
 For details, please refer to report.pdf in the root directory.
 
-## 2. Enviroment requirement
+## 2. Environment Requirement
 JRE 1.8
 
 Maven 3.5
@@ -13,7 +13,7 @@ Go to root directory.
 
 Build:
 ```
-mvn clean install
+mvn install
 mvn compile
 ```
 
